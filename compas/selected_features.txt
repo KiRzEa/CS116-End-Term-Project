@@ -1,0 +1,16 @@
+age
+age_gmm_dev_5
+c_charge_degree
+c_charge_degree_F
+c_charge_degree_M
+fa_0
+fa_1
+fa_1_gmm_dev_11
+fa_1_gmm_dev_16
+pca_0
+pca_1
+pca_1_gmm_dev_18
+priors_count
+priors_count_gmm_dev_1
+priors_count_gmm_dev_8
+two_year_recid
